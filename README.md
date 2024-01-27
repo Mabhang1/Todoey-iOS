@@ -1,4 +1,4 @@
-![Todoey Banner](Documentation/Todoey%20Swift.jpg)
+![Todoey Banner](Documentation/Todoey%20Mockup.jpg)
 
 
 # Todoey ✓
